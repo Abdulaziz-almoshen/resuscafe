@@ -167,7 +167,6 @@
                           From: "opacity-100"
                           To: "opacity-0"
                       -->
-                          
                         </div>
 
                         <div class="flex">
@@ -200,8 +199,6 @@
                               class="absolute inset-0 top-1/2 bg-white shadow"
                               aria-hidden="true"
                             ></div>
-
-                            
                           </div>
                         </div>
 
@@ -460,7 +457,7 @@
               class="h-48 w-full sm:h-64 lg:absolute lg:top-0 lg:right-0 lg:h-full lg:w-1/2"
             >
               <img
-              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP_47cBMQhOScClx-AXzWymXR9dSBantm3RtWTEaaSiybTqzq7PczYgz1qT7Ry-NHX3fE&usqp=CAU"
+                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP_47cBMQhOScClx-AXzWymXR9dSBantm3RtWTEaaSiybTqzq7PczYgz1qT7Ry-NHX3fE&usqp=CAU"
                 alt=""
                 class="h-full w-full object-cover object-center"
               />
@@ -515,8 +512,6 @@
                         <p class="mt-1 text-gray-900">$35</p>
                       </div>
                     </div>
-
-                    
                   </li>
 
                   <!-- More products... -->
@@ -568,9 +563,7 @@
                       Egyption
                     </a>
                   </h3>
-                  <p class="text-base font-semibold text-gray-900">
-                    Beans
-                  </p>
+                  <p class="text-base font-semibold text-gray-900">Beans</p>
                 </div>
 
                 <div class="group relative">
@@ -589,9 +582,7 @@
                       Saudi
                     </a>
                   </h3>
-                  <p class="text-base font-semibold text-gray-900">
-                    Beans
-                  </p>
+                  <p class="text-base font-semibold text-gray-900">Beans</p>
                 </div>
 
                 <div class="group relative">
@@ -610,9 +601,7 @@
                       Colombian
                     </a>
                   </h3>
-                  <p class="text-base font-semibold text-gray-900">
-                    Beans
-                  </p>
+                  <p class="text-base font-semibold text-gray-900">Beans</p>
                 </div>
               </div>
             </div>
@@ -639,10 +628,8 @@
           </div>
 
           <!-- Sale -->
-          
 
           <!-- Testimonials -->
-          
         </div>
       </main>
 
@@ -893,13 +880,13 @@
           <div class="py-10 md:flex md:items-center md:justify-between">
             <div class="text-center md:text-left">
               <p class="text-sm text-gray-500">
-                &copy; 2023 All Rights Reserved Dar Kataket Restaurants Company
-                - One Individual Company
+                &copy; 2023 All Rights Reserved My Food to provide meals company
               </p>
-              <p class="text-sm text-gray-500">Commercial Number: 101074712</p>
-              <p class="text-sm text-gray-500">Phone Number: +966540680389</p>
+              <p class="text-sm text-gray-500">Commercial Number: 1010743003</p>
+              <p class="text-sm text-gray-500">Phone Number: +966500559705</p>
               <p class="text-sm text-gray-500">
-                Address: :7936 Haroun Al Rashid Al Jazeerah Dist.3906
+                Address: :5044 Eissa Almalaji Alsafa 3405 Riyadh, Alsafa 12853
+                Saudi Arabia
               </p>
             </div>
 
@@ -941,5 +928,5 @@
 </template>
 
 <script>
-export default {}
+export default {};
 </script>
