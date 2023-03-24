@@ -52,77 +52,7 @@
       <header class="relative z-10">
         <nav aria-label="Top">
           <!-- Top navigation -->
-          <div class="bg-gray-900">
-            <div
-              class="mx-auto flex h-10 max-w-7xl items-center justify-between px-4 sm:px-6 lg:px-8"
-            >
-              <!-- Currency selector -->
-              <form class="hidden lg:block lg:flex-1">
-                <div class="flex">
-                  <label for="desktop-currency" class="sr-only">Currency</label>
-                  <div
-                    class="group relative -ml-2 rounded-md border-transparent bg-gray-900 focus-within:ring-2 focus-within:ring-white"
-                  >
-                    <select
-                      id="desktop-currency"
-                      name="currency"
-                      class="flex items-center rounded-md border-transparent bg-gray-900 bg-none py-0.5 pl-2 pr-5 text-sm font-medium text-white focus:border-transparent focus:outline-none focus:ring-0 group-hover:text-gray-100"
-                    >
-                      <option>CAD</option>
-
-                      <option>USD</option>
-
-                      <option>AUD</option>
-
-                      <option>EUR</option>
-
-                      <option>GBP</option>
-                    </select>
-                    <div
-                      class="pointer-events-none absolute inset-y-0 right-0 flex items-center"
-                    >
-                      <!-- Heroicon name: mini/chevron-down -->
-                      <svg
-                        class="h-5 w-5 text-gray-300"
-                        xmlns="http://www.w3.org/2000/svg"
-                        viewBox="0 0 20 20"
-                        fill="currentColor"
-                        aria-hidden="true"
-                      >
-                        <path
-                          fill-rule="evenodd"
-                          d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z"
-                          clip-rule="evenodd"
-                        />
-                      </svg>
-                    </div>
-                  </div>
-                </div>
-              </form>
-
-              <p
-                class="flex-1 text-center text-sm font-medium text-white lg:flex-none"
-              >
-                Get free delivery on orders over $100
-              </p>
-
-              <div
-                class="hidden lg:flex lg:flex-1 lg:items-center lg:justify-end lg:space-x-6"
-              >
-                <a
-                  href="#"
-                  class="text-sm font-medium text-white hover:text-gray-100"
-                  >Create an account</a
-                >
-                <span class="h-6 w-px bg-gray-600" aria-hidden="true"></span>
-                <a
-                  href="#"
-                  class="text-sm font-medium text-white hover:text-gray-100"
-                  >Sign in</a
-                >
-              </div>
-            </div>
-          </div>
+          
 
           <!-- Secondary navigation -->
           <div class="bg-white">
@@ -130,16 +60,6 @@
               <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
                 <div class="flex h-16 items-center justify-between">
                   <!-- Logo (lg+) -->
-                  <div class="hidden lg:flex lg:items-center">
-                    <a href="#">
-                      <span class="sr-only">Your Company</span>
-                      <img
-                        class="h-8 w-auto"
-                        src="https://scontent.fruh4-6.fna.fbcdn.net/v/t39.30808-6/243547962_1063021347901551_6553224124569965068_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=TREgUPftLoIAX-_hQ5x&_nc_ht=scontent.fruh4-6.fna&oh=00_AfCzNvdtlqvQAXqyQz8kmTexs9zi312js1_zK3MN3oM7ow&oe=63C091C2"
-                        alt=""
-                      />
-                    </a>
-                  </div>
 
                   <div class="hidden h-full lg:flex">
                     <!-- Mega menus -->
@@ -269,14 +189,6 @@
                   </div>
 
                   <!-- Logo (lg-) -->
-                  <a href="#" class="lg:hidden">
-                    <span class="sr-only">Your Company</span>
-                    <img
-                      src="https://scontent.fruh4-6.fna.fbcdn.net/v/t39.30808-6/243547962_1063021347901551_6553224124569965068_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=TREgUPftLoIAX-_hQ5x&_nc_ht=scontent.fruh4-6.fna&oh=00_AfCzNvdtlqvQAXqyQz8kmTexs9zi312js1_zK3MN3oM7ow&oe=63C091C2"
-                      alt="https://scontent.fruh4-6.fna.fbcdn.net/v/t39.30808-6/243547962_1063021347901551_6553224124569965068_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=TREgUPftLoIAX-_hQ5x&_nc_ht=scontent.fruh4-6.fna&oh=00_AfCzNvdtlqvQAXqyQz8kmTexs9zi312js1_zK3MN3oM7ow&oe=63C091C2"
-                      class="h-8 w-auto"
-                    />
-                  </a>
 
                   <div class="flex flex-1 items-center justify-end">
                     <div class="flex items-center lg:ml-8">
@@ -636,246 +548,6 @@
       <footer aria-labelledby="footer-heading" class="bg-white">
         <h2 id="footer-heading" class="sr-only">Footer</h2>
         <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-          <div class="border-t border-gray-200">
-            <div class="pt-16 pb-20">
-              <div class="md:flex md:justify-center">
-                <img
-                  src="https://scontent.fruh4-6.fna.fbcdn.net/v/t39.30808-6/243547962_1063021347901551_6553224124569965068_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=TREgUPftLoIAX-_hQ5x&_nc_ht=scontent.fruh4-6.fna&oh=00_AfCzNvdtlqvQAXqyQz8kmTexs9zi312js1_zK3MN3oM7ow&oe=63C091C2"
-                  alt="https://scontent.fruh4-6.fna.fbcdn.net/v/t39.30808-6/243547962_1063021347901551_6553224124569965068_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=TREgUPftLoIAX-_hQ5x&_nc_ht=scontent.fruh4-6.fna&oh=00_AfCzNvdtlqvQAXqyQz8kmTexs9zi312js1_zK3MN3oM7ow&oe=63C091C2"
-                  class="h-8 w-auto"
-                />
-              </div>
-              <div
-                class="mx-auto mt-16 max-w-5xl xl:grid xl:grid-cols-2 xl:gap-8"
-              >
-                <div class="grid grid-cols-2 gap-8 xl:col-span-2">
-                  <div
-                    class="space-y-12 md:grid md:grid-cols-2 md:gap-8 md:space-y-0"
-                  >
-                    <div>
-                      <h3 class="text-sm font-medium text-gray-900">
-                        Products
-                      </h3>
-                      <ul role="list" class="mt-6 space-y-6">
-                        <li class="text-sm">
-                          <a href="#" class="text-gray-500 hover:text-gray-600"
-                            >Bags</a
-                          >
-                        </li>
-
-                        <li class="text-sm">
-                          <a href="#" class="text-gray-500 hover:text-gray-600"
-                            >Tees</a
-                          >
-                        </li>
-
-                        <li class="text-sm">
-                          <a href="#" class="text-gray-500 hover:text-gray-600"
-                            >Objects</a
-                          >
-                        </li>
-
-                        <li class="text-sm">
-                          <a href="#" class="text-gray-500 hover:text-gray-600"
-                            >Home Goods</a
-                          >
-                        </li>
-
-                        <li class="text-sm">
-                          <a href="#" class="text-gray-500 hover:text-gray-600"
-                            >Accessories</a
-                          >
-                        </li>
-                      </ul>
-                    </div>
-                    <div>
-                      <h3 class="text-sm font-medium text-gray-900">
-                        Customer Service
-                      </h3>
-                      <ul role="list" class="mt-6 space-y-6">
-                        <li class="text-sm">
-                          <a href="#" class="text-gray-500 hover:text-gray-600"
-                            >Contact</a
-                          >
-                        </li>
-
-                        <li class="text-sm">
-                          <a href="#" class="text-gray-500 hover:text-gray-600"
-                            >Shipping</a
-                          >
-                        </li>
-
-                        <li class="text-sm">
-                          <a href="#" class="text-gray-500 hover:text-gray-600"
-                            >Returns</a
-                          >
-                        </li>
-
-                        <li class="text-sm">
-                          <a href="#" class="text-gray-500 hover:text-gray-600"
-                            >Warranty</a
-                          >
-                        </li>
-
-                        <li class="text-sm">
-                          <a href="#" class="text-gray-500 hover:text-gray-600"
-                            >Secure Payments</a
-                          >
-                        </li>
-
-                        <li class="text-sm">
-                          <a href="#" class="text-gray-500 hover:text-gray-600"
-                            >FAQ</a
-                          >
-                        </li>
-
-                        <li class="text-sm">
-                          <a href="#" class="text-gray-500 hover:text-gray-600"
-                            >Find a store</a
-                          >
-                        </li>
-                      </ul>
-                    </div>
-                  </div>
-                  <div
-                    class="space-y-12 md:grid md:grid-cols-2 md:gap-8 md:space-y-0"
-                  >
-                    <div>
-                      <h3 class="text-sm font-medium text-gray-900">Company</h3>
-                      <ul role="list" class="mt-6 space-y-6">
-                        <li class="text-sm">
-                          <a href="#" class="text-gray-500 hover:text-gray-600"
-                            >Who we are</a
-                          >
-                        </li>
-
-                        <li class="text-sm">
-                          <a href="#" class="text-gray-500 hover:text-gray-600"
-                            >Sustainability</a
-                          >
-                        </li>
-
-                        <li class="text-sm">
-                          <a href="#" class="text-gray-500 hover:text-gray-600"
-                            >Press</a
-                          >
-                        </li>
-
-                        <li class="text-sm">
-                          <a href="#" class="text-gray-500 hover:text-gray-600"
-                            >Careers</a
-                          >
-                        </li>
-
-                        <li class="text-sm">
-                          <a href="#" class="text-gray-500 hover:text-gray-600"
-                            >Terms &amp; Conditions</a
-                          >
-                        </li>
-
-                        <li class="text-sm">
-                          <a href="#" class="text-gray-500 hover:text-gray-600"
-                            >Privacy</a
-                          >
-                        </li>
-                      </ul>
-                    </div>
-                    <div>
-                      <h3 class="text-sm font-medium text-gray-900">Legal</h3>
-                      <ul role="list" class="mt-6 space-y-6">
-                        <li class="text-sm">
-                          <a href="#" class="text-gray-500 hover:text-gray-600"
-                            >Terms of Service</a
-                          >
-                        </li>
-
-                        <li class="text-sm">
-                          <a href="#" class="text-gray-500 hover:text-gray-600"
-                            >Return Policy</a
-                          >
-                        </li>
-
-                        <li class="text-sm">
-                          <a href="#" class="text-gray-500 hover:text-gray-600"
-                            >Privacy Policy</a
-                          >
-                        </li>
-
-                        <li class="text-sm">
-                          <a href="#" class="text-gray-500 hover:text-gray-600"
-                            >Shipping Policy</a
-                          >
-                        </li>
-                      </ul>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div class="lg:grid lg:grid-cols-2 lg:gap-x-6 xl:gap-x-8">
-              <div class="flex items-center rounded-lg bg-gray-100 p-6 sm:p-10">
-                <div class="mx-auto max-w-sm">
-                  <h3 class="font-semibold text-gray-900">
-                    Sign up for our newsletter
-                  </h3>
-                  <p class="mt-2 text-sm text-gray-500">
-                    The latest news, articles, and resources, sent to your inbox
-                    weekly.
-                  </p>
-                  <form class="mt-4 sm:mt-6 sm:flex">
-                    <label for="email-address" class="sr-only"
-                      >Email address</label
-                    >
-                    <input
-                      id="email-address"
-                      type="text"
-                      autocomplete="email"
-                      required
-                      class="w-full min-w-0 appearance-none rounded-md border border-gray-300 bg-white py-2 px-4 text-base text-gray-900 placeholder-gray-500 shadow-sm focus:border-indigo-500 focus:outline-none focus:ring-1 focus:ring-indigo-500"
-                    />
-                    <div class="mt-3 sm:mt-0 sm:ml-4 sm:flex-shrink-0">
-                      <button
-                        type="submit"
-                        class="flex w-full items-center justify-center rounded-md border border-transparent bg-indigo-600 py-2 px-4 text-base font-medium text-white shadow-sm hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2 focus:ring-offset-white"
-                      >
-                        Sign up
-                      </button>
-                    </div>
-                  </form>
-                </div>
-              </div>
-
-              <div
-                class="relative mt-6 flex items-center py-12 px-6 sm:py-16 sm:px-10 lg:mt-0"
-              >
-                <div class="absolute inset-0 overflow-hidden rounded-lg">
-                  <img
-                    src="https://tailwindui.com/img/ecommerce-images/footer-02-exclusive-sale.jpg"
-                    alt=""
-                    class="h-full w-full object-cover object-center saturate-0 filter"
-                  />
-                  <div
-                    class="absolute inset-0 bg-indigo-600 bg-opacity-90"
-                  ></div>
-                </div>
-                <div class="relative mx-auto max-w-sm text-center">
-                  <h3 class="text-2xl font-bold tracking-tight text-white">
-                    Get early access
-                  </h3>
-                  <p class="mt-2 text-gray-200">
-                    Did you sign up to the newsletter? If so, use the keyword we
-                    sent you to get access.
-                    <a
-                      href="#"
-                      class="whitespace-nowrap font-bold text-white hover:text-gray-200"
-                      >Go now<span aria-hidden="true"> &rarr;</span></a
-                    >
-                  </p>
-                </div>
-              </div>
-            </div>
-          </div>
 
           <div class="py-10 md:flex md:items-center md:justify-between">
             <div class="text-center md:text-left">
@@ -883,10 +555,9 @@
                 &copy; 2023 All Rights Reserved My Food to provide meals company
               </p>
               <p class="text-sm text-gray-500">Commercial Number: 1010743003</p>
-              <p class="text-sm text-gray-500">Phone Number: +966500559705</p>
+              <p class="text-sm text-gray-500">Phone Number: 0500559705</p>
               <p class="text-sm text-gray-500">
-                Address: :5044 Eissa Almalaji Alsafa 3405 Riyadh, Alsafa 12853
-                Saudi Arabia
+                Address: 5044 Eissa Almalaji Riyadh, Alsafa 12853
               </p>
             </div>
 
