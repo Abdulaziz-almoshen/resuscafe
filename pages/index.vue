@@ -551,12 +551,12 @@
 
           <div class="py-10 md:flex md:items-center md:justify-between">
             <div class="text-center md:text-left">
-              <p class="text-sm text-gray-500">
-                &copy; 2023 All Rights Reserved My Food to provide meals company
+              <p class="text-md text-gray-500">
+                My Food to provide meals company
               </p>
-              <p class="text-sm text-gray-500">Commercial Number: 1010743003</p>
-              <p class="text-sm text-gray-500">Phone Number: 0500559705</p>
-              <p class="text-sm text-gray-500">
+              <p class="text-md text-gray-500">Commercial Number: 1010743003</p>
+              <p class="text-md text-gray-500">Phone Number: 0500559705</p>
+              <p class="text-md text-gray-500">
                 Address: 5044 Eissa Almalaji Riyadh, Alsafa 12853
               </p>
             </div>
