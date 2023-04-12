@@ -552,17 +552,17 @@
           <div class="py-10 md:flex md:items-center md:justify-between">
             <div class="text-center md:text-left">
               <p class="text-md text-gray-500">
-                مؤسسة أغذيتي لتقديم الوجبات 
-
+               مؤسسة أغذيتي لتقديم الوجبات 
 5044، عيسى الملاجي، الصفا، 5043
+
 <br>
 0112070400
-              </p>
+              <!-- </p>
               <p class="text-md text-gray-500">Commercial Number: 1010743003</p>
               <p class="text-md text-gray-500">Phone Number: 0500559705</p>
               <p class="text-md text-gray-500">
                 Address: 5044 Eissa Almalaji Riyadh, Alsafa 12853
-              </p>
+              </p> -->
             </div>
 
             <div class="mt-4 flex items-center justify-center md:mt-0">
