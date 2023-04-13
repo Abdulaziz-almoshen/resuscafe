@@ -552,7 +552,9 @@
           <div class="py-10 md:flex md:items-center md:justify-between">
             <div class="text-center md:text-left">
               <p class="text-md text-gray-500">
-               مؤسسة أغذيتي لتقديم الوجبات 
+               
+              مؤسسة أغذيتي لتقديم الوجبات 
+              <br>
 5044، عيسى الملاجي، الصفا، 5043
 
 <br>
