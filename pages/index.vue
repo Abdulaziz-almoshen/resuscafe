@@ -558,7 +558,7 @@
 5044، عيسى الملاجي، الصفا، 5043
 
 <br>
-0112070400
+0500028516
               <!-- </p>
               <p class="text-md text-gray-500">Commercial Number: 1010743003</p>
               <p class="text-md text-gray-500">Phone Number: 0500559705</p>
