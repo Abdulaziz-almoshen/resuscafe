@@ -349,7 +349,7 @@
                     <h1
                       class="text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl xl:text-6xl"
                     >
-                      Focus on coffee
+                      مؤسسة أغذيتي لتقديم الوجبات
                     </h1>
                     <p class="mt-4 text-xl text-gray-600">
                       Better Beans, Better Coffee
@@ -551,7 +551,7 @@
 
           <div class="py-10 md:flex md:items-center md:justify-between">
             <div class="text-center md:text-left">
-              <p class="text-md text-gray-500">
+              <p class="text-md text-gray-500"></p>
                
               مؤسسة أغذيتي لتقديم الوجبات 
               <br>
