@@ -545,14 +545,14 @@
 
           <div class="py-10 md:flex md:items-center md:justify-between">
             <div class="text-center md:text-left">
-              <p class="text-lg text-gray-500">  مؤسسة أغذيتي لتقديم الوجبات </p>
+              <p class="text-lg text-black">  مؤسسة أغذيتي لتقديم الوجبات </p>
                
             
-<p class="text-lg text-gray-500">
+<p class="text-lg text-black">
   5044، عيسى الملاجي، الصفا، 5043
 </p>
 
-<p class="text-lg text-gray-500">
+<p class="text-lg text-black">
   0500028516
 </p>
             
