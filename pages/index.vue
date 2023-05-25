@@ -363,7 +363,7 @@
               class="h-48 w-full sm:h-64 lg:absolute lg:top-0 lg:right-0 lg:h-full lg:w-1/2"
             >
               <img
-                src="../dist/resus.png"
+                src="../static/resus.png"
                 alt=""
                 class="h-full w-full object-cover object-center"
               />
