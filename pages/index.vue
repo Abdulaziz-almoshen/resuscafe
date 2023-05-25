@@ -354,13 +354,7 @@
                     <p class="mt-4 text-xl text-gray-600">
                       Better Beans, Better Coffee
                     </p>
-                    <div class="mt-6">
-                      <a
-                        href="#"
-                        class="inline-block rounded-md border border-transparent bg-red-300 py-3 px-8 font-medium text-white hover:bg-indigo-700"
-                        >Shop Branches</a
-                      >
-                    </div>
+                    
                   </div>
                 </div>
               </div>
@@ -369,7 +363,7 @@
               class="h-48 w-full sm:h-64 lg:absolute lg:top-0 lg:right-0 lg:h-full lg:w-1/2"
             >
               <img
-                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP_47cBMQhOScClx-AXzWymXR9dSBantm3RtWTEaaSiybTqzq7PczYgz1qT7Ry-NHX3fE&usqp=CAU"
+                src="../dist/resus.png"
                 alt=""
                 class="h-full w-full object-cover object-center"
               />
@@ -551,20 +545,17 @@
 
           <div class="py-10 md:flex md:items-center md:justify-between">
             <div class="text-center md:text-left">
-              <p class="text-md text-gray-500"></p>
+              <p class="text-lg text-gray-500">  مؤسسة أغذيتي لتقديم الوجبات </p>
                
-              مؤسسة أغذيتي لتقديم الوجبات 
-              <br>
-5044، عيسى الملاجي، الصفا، 5043
+            
+<p class="text-lg text-gray-500">
+  5044، عيسى الملاجي، الصفا، 5043
+</p>
 
-<br>
-0500028516
-              <!-- </p>
-              <p class="text-md text-gray-500">Commercial Number: 1010743003</p>
-              <p class="text-md text-gray-500">Phone Number: 0500559705</p>
-              <p class="text-md text-gray-500">
-                Address: 5044 Eissa Almalaji Riyadh, Alsafa 12853
-              </p> -->
+<p class="text-lg text-gray-500">
+  0500028516
+</p>
+            
             </div>
 
             <div class="mt-4 flex items-center justify-center md:mt-0">
@@ -603,7 +594,3 @@
     </div>
   </div>
 </template>
-
-<script>
-export default {};
-</script>
