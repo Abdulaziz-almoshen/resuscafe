@@ -61,7 +61,7 @@
                 <div class="flex h-16 items-center justify-between">
 
                   <div class="hidden h-full lg:flex">
-                    <p class="text-4xl py-4">
+                    <p class="text-2xl py-4">
                     مؤسسة أغذيتي لتقديم الوجبات
 
                     </p>
@@ -129,7 +129,7 @@
                       مؤسسة أغذيتي لتقديم الوجبات
                     </h1>
                     <p class="mt-4 text-xl text-gray-600">
-                      Better Beans, Better Coffee
+                      Better Beans, Better Coffee. We are open! 
                     </p>
                     
                   </div>
@@ -183,14 +183,14 @@
 
           <div class="py-10 md:flex md:items-center md:justify-between">
             <div class="text-center md:text-left">
-              <p class="text-2xl text-black">  مؤسسة أغذيتي لتقديم الوجبات </p>
+              <p class="text-md text-black">  مؤسسة أغذيتي لتقديم الوجبات </p>
                
             
-<p class="text-2xl text-black">
+<p class="text-md text-black">
   5044، عيسى الملاجي، الصفا، 5043
 </p>
 
-<p class="text-2xl text-black">
+<p class="text-md text-black">
   0500028516
 </p>
             
@@ -198,17 +198,16 @@
 
             <div class="mt-4 flex items-center justify-center md:mt-0">
               <div class="flex space-x-8">
-                <a href="#" class="text-sm text-gray-500 hover:text-gray-600"
-                  >Accessibility</a
+                <a href="https://instagram.com/resuscafe.sa?igshid=ZWQyN2ExYTkwZQ==
+" class="text-sm text-gray-500 hover:text-gray-600"
+                  >instagram</a
                 >
 
-                <a href="#" class="text-sm text-gray-500 hover:text-gray-600"
-                  >Privacy</a
+                <a href="https://maps.app.goo.gl/7PzMp5afBX7rHxVG9?g_st=ic" class="text-sm text-gray-500 hover:text-gray-600"
+                  >Location</a
                 >
 
-                <a href="#" class="text-sm text-gray-500 hover:text-gray-600"
-                  >Terms</a
-                >
+               
               </div>
 
               <div class="ml-6 border-l border-gray-200 pl-6">
@@ -221,8 +220,7 @@
                     alt=""
                     class="h-auto w-5 flex-shrink-0"
                   />
-                  <span class="ml-3 text-sm">Change</span>
-                  <span class="sr-only">location and currency</span>
+                 
                 </a>
               </div>
             </div>
