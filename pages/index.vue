@@ -52,19 +52,14 @@
       <header class="relative z-10">
         <nav aria-label="Top">
           <!-- Top navigation -->
-          
 
           <!-- Secondary navigation -->
           <div class="bg-white">
             <div class="border-b border-gray-200">
               <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
                 <div class="flex h-16 items-center justify-between">
-
                   <div class="hidden h-full lg:flex">
-                    <p class="text-2xl py-4">
-                    مؤسسة أغذيتي لتقديم الوجبات
-
-                    </p>
+                    <p class="text-2xl py-4">مؤسسة أغذيتي لتقديم الوجبات</p>
                   </div>
 
                   <!-- Mobile menu and search (lg-) -->
@@ -94,12 +89,9 @@
                     </button>
 
                     <!-- Search -->
-                    
                   </div>
 
                   <!-- Logo (lg-) -->
-
-                  
                 </div>
               </div>
             </div>
@@ -110,8 +102,6 @@
       <main>
         <!-- Hero -->
         <div class="flex flex-col border-b border-gray-200 lg:border-0">
-          
-
           <div class="relative">
             <div
               aria-hidden="true"
@@ -129,9 +119,8 @@
                       مؤسسة أغذيتي لتقديم الوجبات
                     </h1>
                     <p class="mt-4 text-xl text-gray-600">
-                      Better Beans, Better Coffee. We are open! 
+                      Better Beans, Better Coffee. We are open!
                     </p>
-                    
                   </div>
                 </div>
               </div>
@@ -148,9 +137,7 @@
           </div>
         </div>
 
-       
         <!-- Collections -->
-        
 
         <!-- Sale and testimonials -->
         <div class="relative overflow-hidden">
@@ -180,34 +167,34 @@
       <footer aria-labelledby="footer-heading" class="bg-white">
         <h2 id="footer-heading" class="sr-only">Footer</h2>
         <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-
           <div class="py-10 md:flex md:items-center md:justify-between">
             <div class="text-center md:text-left">
-              <p class="text-md text-black">  مؤسسة أغذيتي لتقديم الوجبات </p>
-               
-            
-<p class="text-md text-black">
-  5044، عيسى الملاجي، الصفا، 5043
-</p>
+              <p class="text-md text-black">مؤسسة أغذيتي لتقديم الوجبات</p>
 
-<p class="text-md text-black">
-  0500028516
-</p>
-            
+              <p class="text-md text-black">5044، عيسى الملاجي، الصفا، 5043</p>
+
+              <p class="text-md text-black">0500028516</p>
             </div>
 
             <div class="mt-4 flex items-center justify-center md:mt-0">
               <div class="flex space-x-8">
-                <a href="https://instagram.com/resuscafe.sa?igshid=ZWQyN2ExYTkwZQ==
-" class="text-sm text-gray-500 hover:text-gray-600"
+                <a
+                  href="https://instagram.com/resuscafe.sa?igshid=ZWQyN2ExYTkwZQ==
+"
+                  class="text-sm text-gray-500 hover:text-gray-600"
                   >instagram</a
                 >
 
-                <a href="https://maps.app.goo.gl/7PzMp5afBX7rHxVG9?g_st=ic" class="text-sm text-gray-500 hover:text-gray-600"
+                <a
+                  href="https://maps.app.goo.gl/7PzMp5afBX7rHxVG9?g_st=ic"
+                  class="text-sm text-gray-500 hover:text-gray-600"
                   >Location</a
                 >
-
-               
+                <a
+                  href="/about"
+                  class="text-sm text-gray-500 hover:text-gray-600"
+                  >About</a
+                >
               </div>
 
               <div class="ml-6 border-l border-gray-200 pl-6">
@@ -220,7 +207,6 @@
                     alt=""
                     class="h-auto w-5 flex-shrink-0"
                   />
-                 
                 </a>
               </div>
             </div>
